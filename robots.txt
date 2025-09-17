@@ -1,0 +1,7 @@
+# robots.txt für LeonCasinoDE
+# Regeln für Suchmaschinen-Crawler
+
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/LeonCasinoDE/sitemap.xml
